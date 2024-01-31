@@ -1,0 +1,24 @@
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\bin\Debug\UI_USB_Com.exe.config
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\bin\Debug\UI_USB_Com.exe
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\bin\Debug\UI_USB_Com.pdb
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\bin\Debug\UsbLibrary.dll
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.csproj.AssemblyReference.cache
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.UI_usb_hdi.resources
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.Properties.Resources.resources
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.csproj.CopyComplete
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.exe
+C:\Users\thang\OneDrive\Máy tính\workspace\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.pdb
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\bin\Debug\UI_USB_Com.exe.config
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\bin\Debug\UI_USB_Com.exe
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\bin\Debug\UI_USB_Com.pdb
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\bin\Debug\UsbLibrary.dll
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.csproj.AssemblyReference.cache
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.UI_usb_hdi.resources
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.Properties.Resources.resources
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.csproj.CopyComplete
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.exe
+C:\Users\thang\OneDrive\Máy tính\USB-(HID) test project\UI_USB_Com\UI_USB_Com\obj\Debug\UI_USB_Com.pdb
